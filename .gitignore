@@ -1,9 +1,5 @@
-# vscode
-.vscode 
-
 # Intellij
 *.iml
-.idea
 
 # npm
 node_modules
@@ -18,5 +14,12 @@ main.js
 # obsidian
 data.json
 
-# Exclude macOS Finder (System Explorer) View States
-.DS_Store
+# Exclude any dotfiles that are not explicitly included
+.*
+
+# dotfiles to include
+!.editorconfig
+!.eslintignore
+!.eslintrc
+!.gitignore
+!.npmrc

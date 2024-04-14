@@ -1,11 +1,12 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"id": "gottz-sticky-headings",
+	"name": "GottZ Sticky Headings",
+	"version": "0.0.1",
+	"minAppVersion": "1.15.2",
+	"description": "Magical plugin to give a context-aware peek at where in the document structure you currently are. (similar to the GitHub sourcecode browser)",
+	"author": "Jan-Stefan Janetzky <github@GottZ.de>",
+	"authorUrl": "https://github.com/GottZ",
+	"fundingUrl": "https://github.com/sponsors/GottZ",
+	"helpUrl": "https://github.com/GottZ/sticky-headings",
 	"isDesktopOnly": false
 }
